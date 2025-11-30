@@ -1,6 +1,8 @@
 # 🚪 The Cubicle Escape – VR Interaction Demo
 
-https://github.com/user-attachments/assets/a604d5df-8ff2-4507-b1a2-a8703a9be795
+## Demo Video
+
+https://github.com/user-attachments/assets/70860fea-79af-49a7-9b6f-79e972827640
 
 ### Built with **Unity 6.2** | **XR Interaction Toolkit** | **ProBuilder** | **XR Device Simulator**
 
