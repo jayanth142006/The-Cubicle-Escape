@@ -1,5 +1,7 @@
 # 🚪 The Cubicle Escape – VR Interaction Demo
 
+https://github.com/user-attachments/assets/a604d5df-8ff2-4507-b1a2-a8703a9be795
+
 ### Built with **Unity 6.2** | **XR Interaction Toolkit** | **ProBuilder** | **XR Device Simulator**
 
 This project demonstrates core VR interaction mechanics in a virtual cubicle environment, including locomotion, physics object interaction, UI interaction, and scoring with audio feedback.
